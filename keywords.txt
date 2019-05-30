@@ -1,4 +1,4 @@
-CircularBuffer   KEYWORD1
-appendData    KEYWORD2
-getDataAtIndex     KEYWORD2
-getDataCount    KEYWORD2
+CircularBuffer	KEYWORD1
+appendData	KEYWORD2
+getDataAtIndex	KEYWORD2
+getDataCount	KEYWORD2
